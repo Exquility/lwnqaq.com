@@ -24,8 +24,8 @@ role: Postgraduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Sun YatSun university
-    url: https://openai.com/
+  - name: Sun Yat-sen University
+    url: https://www.sysu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,33 +47,38 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Autophagy
-  - Computational Linguistics
-  - Information Retrieval
+  - Regulation of cell signaling pathways by post-translational modifications (PTM)
+  - The function of autophagy in immune regulation
+  - Communication between immune cells
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Biochemistry and Molecular Biology
+    institution: Sun Yat-sen University
+    date_start: 2023-09-01
+    date_end: 2025-06-31
     summary: |
-      GPA: 3.8/4.0
-
+    
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Cellular and Molecular Immunology (90/100)
+      - Topics in Cell Signaling (97/100)
+      - Physiology of Epithelial Cells (97/100)
+      - Experimental Design and Statistical Analysis (94/100), etc
+  - area: BSc Biotechnology
+    institution: Sun Yat-sen University
+    date_start: 2019-09-01
+    date_end: 2023-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Cell Biology (93/100)
+      - Biochemistry (95/100)
+      - Principles of Immunology (96/100)
+      - Experiments of Cell Biology (94/100)
+      - Experiments of Biochemistry (94/100)
+      - Experimental Skills in Molecular Biology (94/100)
+      - Experiments of Immunology (97/100)
+      - Experiments of Biotechnology (95/100)
 
 
 # Skills
@@ -81,16 +86,16 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Molecular biology techniques
+        description: DNA cloning and plasmid construction, gene editing (utilizing CRISPR/Cas9 system), qPCR, Western blot, immunoprecipitation, subcellular fractionation, ELISA, etc.
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: Cellular biology techniques
+        description: cell culture, cell line construction, transfection, immunofluorescence, confocal/super-resolution fluorescence microscopy, electron microscopy, flow cytometry, etc.
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: Animal experimentation and procedures
+        description: genotyping, breeding, injections, blood collection, BMDM extraction, induction of DSS colitis model, etc.
         percent: 40
         icon: circle-stack
   - name: Hobbies
@@ -111,13 +116,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Mandarin 
     percent: 100
-  - name: Chinese
+  - name: Cantonese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
